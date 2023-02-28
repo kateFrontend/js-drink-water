@@ -15,19 +15,18 @@ The project goal:
 
 ## 🦊 Useful links 
 
-
-### 
-
-```
+### forEach() method
 
 ```
-
-
-### 
-
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach
 ```
 
+### Element.nextElementSibling
+
 ```
+https://developer.mozilla.org/en-US/docs/Web/API/Element/nextElementSibling
+```
+
 
 
 ## ⚡ Built With
