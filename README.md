@@ -1,10 +1,10 @@
 # Drink Water App
 
-![cover](./assets/text.gif)
+![cover](./assets/water.jpg)
 
 ## 🦉 Main information
 
-Drink Water App to fill the bottle with 2L of water built with Html, CSS and Vanilla JavaScript.
+Cool app to track the amount of water you have drank built with Html, CSS and Vanilla JavaScript.
 
 The project goal:
 
@@ -12,6 +12,7 @@ The project goal:
 - when you click on one small cup, you see the % of water in a big cup as well as the amount of water left
 - set up in HTML, style it with CSS and add the functionality with JavaScript
 
+View Demo and have fun here <a href="https://js-drink-water.netlify.app/" target="_blank">Drink Water</a> 
 
 ## 🦊 Useful links 
 
