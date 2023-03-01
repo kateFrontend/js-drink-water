@@ -14,6 +14,8 @@ The project goal:
 
 View Demo and have fun here <a href="https://js-drink-water.netlify.app/" target="_blank">Drink Water</a> 
 
+<sub><sup>made from Brad Traversy course "50 Projects In 50 Days"</sup></sub>
+
 ## 🦊 Useful links 
 
 ### forEach() method
